@@ -1,11 +1,11 @@
 - type: gameMap
-  id: loop
-  mapName: 'loop Station'
+  id: Loop
+  mapName: 'Loop Station'
   mapPath: /Maps/loop.yml
   minPlayers: 30
   maxPlayers: 70
   stations:
-    loop:
+    Loop:
       stationProto: StandardNanotrasenStation
       components:
         - type: StationNameSetup
